@@ -19,3 +19,40 @@ UART (8N1) transmitter and receiver designed in Verilog, simulated and synthesiz
 
 ## How to run
 Add all .v files to a Vivado project, set uart_tb as the simulation top, and run behavioral simulation.
+## Block Diagram
+
+
+![Block Diagram](Block_Diagram.png)
+
+
+
+
+
+![Block Design](Block_Design.png)
+
+
+
+## Simulation Waveform
+
+
+![Waveform](Waveform.png)
+
+
+
+## Simulation Console (PASS)
+
+
+![Console](Console.png)
+
+
+
+## Synthesis
+
+
+![Utilization](Utilization.png)
+
+
+
+
+
+![Synthesized Schematic](Synthesized_Schematic.png)
