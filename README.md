@@ -69,13 +69,16 @@ The same UART design re-implemented in SystemVerilog, in the [systemverilog](sys
 
 
 
-![SystemVerilog Waveform](systemverilog/Waveform.png)
+![SystemVerilog Waveform](systemverilog/<img width="1616" height="656" alt="waveform" src="https://github.com/user-attachments/assets/15cc6fce-a9fd-47d9-a4e5-87b681b8f08f" />
+.png)
 
 
 
 
 
-![SystemVerilog Console](systemverilog/Console.png)
+![SystemVerilog Console](systemverilog/<img width="1052" height="490" alt="console" src="https://github.com/user-attachments/assets/32ae905a-da95-4b73-aa2a-8fb17142b8fe" />
+.png)
+
 
 
 
