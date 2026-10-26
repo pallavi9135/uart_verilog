@@ -50,6 +50,13 @@ Add all .v files to a Vivado project, set uart_tb as the simulation top, and run
 
 
 ![Utilization](Utilization.png)
+
+
+
+
+
+
+![Synthesized Schematic](Synthesized_Schematic.png)
 ## SystemVerilog Version
 
 The same UART design re-implemented in SystemVerilog, in the [systemverilog](systemverilog/) folder.
@@ -62,16 +69,14 @@ The same UART design re-implemented in SystemVerilog, in the [systemverilog](sys
 
 
 
-![SystemVerilog Waveform](waveform.png)
+![SystemVerilog Waveform](systemverilog/Waveform.png)
 
 
 
 
 
-![SystemVerilog Console](console.png)
+![SystemVerilog Console](systemverilog/Console.png)
 
 
 
 
-
-![Synthesized Schematic](Synthesized_Schematic.png)
