@@ -50,6 +50,25 @@ Add all .v files to a Vivado project, set uart_tb as the simulation top, and run
 
 
 ![Utilization](Utilization.png)
+## SystemVerilog Version
+
+The same UART design re-implemented in SystemVerilog, in the [systemverilog](systemverilog/) folder.
+
+- uart_tx.sv, uart_rx.sv, uart_top.sv: design using logic, typedef enum FSMs and always_ff
+- uart_tb.sv: self-checking testbench with a queue-based scoreboard (5 directed + 10 random bytes)
+
+### Results
+- Simulation: 15 of 15 bytes passed, 0 failed, no framing errors (TEST PASSED)
+
+
+
+![SystemVerilog Waveform](waveform.png)
+
+
+
+
+
+![SystemVerilog Console](console.png)
 
 
 
