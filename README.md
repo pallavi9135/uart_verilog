@@ -57,6 +57,8 @@ Add all .v files to a Vivado project, set uart_tb as the simulation top, and run
 
 
 ![Synthesized Schematic](Synthesized_Schematic.png)
+- Implementation (Artix-7, 100 MHz clock): timing met, WNS +6.198 ns, WHS +0.153 ns, 0 failing endpoints
+  
 ## SystemVerilog Version
 
 The same UART design re-implemented in SystemVerilog, in the [systemverilog](systemverilog/) folder.
